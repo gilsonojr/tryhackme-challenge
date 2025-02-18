@@ -11,15 +11,9 @@
    cGljb0NURn17ZWFzeV9jaGFsbGVuZ2V9
    ```
 
-3. **Decoding the Base64 String**
-   - After decoding the Base64 string, you will get the following result:
-   ```
-   pic0CTF{easy_challenge}
-   ```
-
-4. **Flag**
+3. **Flag**
    - The flag for this challenge is:
    ```
-   pic0CTF{easy_challenge}
+   pic0CTF{xxxxxxxxxxxxxxxx}
    ```
 
