@@ -1,0 +1,25 @@
+ **Solution Walkthrough**
+
+1. **Recognizing the Encoding**
+   - The first step in solving this challenge is identifying the encoding used for the hidden string. The presence of characters such as `#` and the structure of the string suggest that it's encoded in **Base64**.
+
+2. **Decoding the String**
+   - To decode the string, you can use a variety of online tools, such as [Base64 Decode](https://www.base64decode.org/), or a local command-line tool like `base64` on Linux or macOS.
+
+   Here's the string to decode:
+   ```
+   cGljb0NURn17ZWFzeV9jaGFsbGVuZ2V9
+   ```
+
+3. **Decoding the Base64 String**
+   - After decoding the Base64 string, you will get the following result:
+   ```
+   pic0CTF{easy_challenge}
+   ```
+
+4. **Flag**
+   - The flag for this challenge is:
+   ```
+   pic0CTF{easy_challenge}
+   ```
+
